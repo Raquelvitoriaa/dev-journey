@@ -6,7 +6,7 @@ THE GRAND LINE OF CODE
 
 > "The treasure ins`t the destination. it´s everything you lear along the way."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&text=DEV%20JOURNEY&fontSize=45&fontColor=ffffff&animation=fadeln&fontAlingY=35&desc=The%20Grand%20Line%20of%20Code&descAlignY=55descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&&fontColor=ffffff&animation=fadeln" width="100%" />
 
 ---
 
