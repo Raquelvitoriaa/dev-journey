@@ -27,6 +27,85 @@ Here i document:
 * 🍊 Paths i discover;
 * 🫖 My evolution over time.
 
+---
+
+# 🗺️ GRAND LINE MAP
+
+        🏴‍☠️ DEV JOURNEY
+               |
+          FRONT-END SEA
+               |
+
+ |             |               |
+HTML          CSS          JavaScript
+ |             |               |
+
+---
+
+# CURRENT ISLAND
+
+## Front-End
+
+Current destination: HTML + CSS
+
+HTML          Learning
+CSS           Learning
+JavaScript    Not Started
+TypeScript    Not Started
+
+---
+
+# THE LOGBOOK
+
+This repository is my personal development log.
+
+Instead of simply collection code, i document what i actually understand.
+
+## Knowledge
+
+Concepts, explanations and technical notes.
+
+## Training
+
+Exercises, challenges and experiments.
+
+## Adventures
+
+Projects created to apply what i learned.
+
+## Battles
+
+Errors, bugs and problems that taught me something.
+
+## Navigation
+
+Useful documentation, courses, books and tools.
+
+---
+
+##  THE CREW
+
+Every technology becomes part of the crew.
+
+|      Technology     |      Role          |
+|---------------------|--------------------|
+|   HTML              |   Structure        |
+|   CSS               |   Visual Design    |
+|   JavaScript        |   Behavior         |
+|   TypeScript        |   Type Safety      |
+|   Node.js           |   Back-end         |
+|   SQL               |   Data             |
+|   Docker            |   Containers       |
+|   Cloud             |   Infrastructure   |
+
+The crew will grow as the journey continues.
+
+---
+
+
+
+
+---
 
 <!--gif final-->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzbzdkN2gxZ2MxNHQ1MjZ1bWowNmZnbWZpeTA1a2E5d2Flb2ExcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
