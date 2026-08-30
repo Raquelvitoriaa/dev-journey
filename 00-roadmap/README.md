@@ -9,6 +9,8 @@
 
 # THE JOURNEY
 
+<p align="center">
+      
       ☠︎ DEV JOURNEY
                |
                ▼
@@ -37,6 +39,9 @@
                |
                ▼
            ONE PIECE
+
+</p>
+
 ---
 
 # 🌊 EAST BLUE
