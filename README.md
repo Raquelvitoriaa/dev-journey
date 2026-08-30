@@ -22,12 +22,10 @@ Here i document:
 * 🌸 Concepts i understand;
 * 🍺 Exercises i pratice;
 * 🍖 Challenges i overcome;
-* Projects i build;
+* ⚒️ Projects i build;
 * 🤥 Bugs i encounter;
 * 🍊 Paths i discover;
 * My evolution over time.
-
-🚬💰
 
 
 <!--gif final-->
