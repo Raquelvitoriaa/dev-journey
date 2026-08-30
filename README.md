@@ -1,4 +1,4 @@
-# 🏴‍☠ DEV JOURNEY
+<p align="center"> # 🏴‍☠ DEV JOURNEY </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&&fontColor=ffffff&animation=fadeln" width="100%" />
 
