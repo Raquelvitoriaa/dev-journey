@@ -35,10 +35,12 @@ Here i document:
                 |
         🪼 FRONT-END SEA
                 |
+        ___________________
         |       |         |
         ▼       ▼         ▼
        HTML    CSS   JavaScript
         |       |          |
+        ____________________
                 |
                 ▼
             TypeScript
