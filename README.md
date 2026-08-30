@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&&fontColor=ffffff&animation=fadeln" width="100%" />
+
 <p align="center">
   <b>🏴‍☠ DEV JOURNEY</b>
 </p>
@@ -5,9 +7,7 @@
 THE GRAND LINE OF CODE
 
 > "The treasure ins`t the destination. it´s everything you lear along the way."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&&fontColor=ffffff&animation=fadeln" width="100%" />
-
+> 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZibWJ0emk1cjhoeHJhc2ZiMTZxYmhjem00YW9zY3Vjamwwd2FpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" width="100%" />
 
 ---
