@@ -48,10 +48,12 @@ HTML          CSS          JavaScript
 
 Current destination: HTML + CSS
 
+```text
 HTML          Learning
 CSS           Learning
 JavaScript    Not Started
 TypeScript    Not Started
+```
 
 ---
 
