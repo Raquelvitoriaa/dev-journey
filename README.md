@@ -39,8 +39,8 @@ Here i document:
         |       |         |
         ▼       ▼         ▼
        HTML    CSS   JavaScript
-        |       |          |
-        ____________________
+        |       |         |
+        ___________________
                 |
                 ▼
             TypeScript
