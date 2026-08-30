@@ -42,44 +42,44 @@ HTML          CSS          JavaScript
 
 ---
 
-# CURRENT ISLAND
+# 🌊 CURRENT ISLAND
 
 ## Front-End
 
 Current destination: HTML + CSS
 
 ```txt
-HTML          Learning
-CSS           Learning
+HTML          🟠 Learning
+CSS           🟠 Learning
 JavaScript    Not Started
 TypeScript    Not Started
 ```
 
 ---
 
-# THE LOGBOOK
+# 📜 THE LOGBOOK
 
 This repository is my personal development log.
 
 Instead of simply collection code, i document what i actually understand.
 
-## Knowledge
+## 👒 Knowledge
 
 Concepts, explanations and technical notes.
 
-## Training
+## 🍺 Training
 
 Exercises, challenges and experiments.
 
-## Adventures
+## 🍖 Adventures
 
 Projects created to apply what i learned.
 
-## Battles
+## 🎯 Battles
 
 Errors, bugs and problems that taught me something.
 
-## Navigation
+## 🍊 Navigation
 
 Useful documentation, courses, books and tools.
 
