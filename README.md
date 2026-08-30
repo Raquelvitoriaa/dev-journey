@@ -23,9 +23,9 @@ Here i document:
 * 🍺 Exercises i pratice;
 * 🍖 Challenges i overcome;
 * ⚒️ Projects i build;
-* 🤥 Bugs i encounter;
+* 🎯 Bugs i encounter;
 * 🍊 Paths i discover;
-* My evolution over time.
+* 🫖 My evolution over time.
 
 
 <!--gif final-->
