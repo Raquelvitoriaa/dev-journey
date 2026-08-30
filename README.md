@@ -1,3 +1,3 @@
 <p align="center">
-  DEV JOURNEY
+  <b>DEV JOURNEY</b>
 </p>
