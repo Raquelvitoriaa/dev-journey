@@ -31,15 +31,32 @@ Here i document:
 
 # 🗺️ GRAND LINE MAP
 
-        🏴‍☠️ DEV JOURNEY
-               |
-          FRONT-END SEA
-               |
-
- |             |               |
-HTML          CSS          JavaScript
- |             |               |
-
+          🏴‍☠️ DEV JOURNEY
+                |
+        🪼 FRONT-END SEA
+                |
+        |       |         |
+        ▼       ▼         ▼
+       HTML    CSS   JavaScript
+        |       |          |
+                |
+                ▼
+            TypeScript
+                |
+                ▼
+         ⚙️BACK-END SEA
+                |
+                ▼
+         🗄️DATABASES
+                |
+                ▼
+           ☁ DEVEOPS
+                |
+                ▼
+      ﹏𓊝﹏ FULL STACK
+                |
+                ▼
+          🏴‍☠ ONE PICE
 ---
 
 # 🌊 CURRENT ISLAND
@@ -51,8 +68,8 @@ Current destination: HTML + CSS
 ```txt
 HTML          🟠 Learning
 CSS           🟠 Learning
-JavaScript    Not Started
-TypeScript    Not Started
+JavaScript    🔴 Not Started
+TypeScript    🔴 Not Started
 ```
 
 ---
@@ -89,18 +106,18 @@ Useful documentation, courses, books and tools.
 
 Every technology becomes part of the crew.
 
-|      Technology     |      Role          |
-|---------------------|--------------------|
-|   HTML              |   Structure        |
-|   CSS               |   Visual Design    |
-|   JavaScript        |   Behavior         |
-|   TypeScript        |   Type Safety      |
-|   Node.js           |   Back-end         |
-|   SQL               |   Data             |
-|   Docker            |   Containers       |
-|   Cloud             |   Infrastructure   |
+|      Technology       |      Role           |
+|-----------------------|---------------------|
+|  🟠 HTML              |   Structure        |
+|  🔵 CSS               |   Visual Design    |
+|  🟡 JavaScript        |   Behavior         |
+|  💠 TypeScript        |   Type Safety      |
+|  🟢 Node.js           |   Back-end         |
+|  🗄️ SQL               |   Data             |
+|  🐳 Docker            |   Containers       |
+|   ☁ Cloud             |   Infrastructure   |
 
-The crew will grow as the journey continues.
+> The crew will grow as the journey continues....
 
 ---
 
