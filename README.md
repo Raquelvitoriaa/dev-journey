@@ -8,6 +8,8 @@ THE GRAND LINE OF CODE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&&fontColor=ffffff&animation=fadeln" width="100%" />
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZibWJ0emk1cjhoeHJhc2ZiMTZxYmhjem00YW9zY3Vjamwwd2FpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" />
+
 ---
 
 # 🧭 About the Journey
@@ -34,7 +36,5 @@ Here i document:
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzbzdkN2gxZ2MxNHQ1MjZ1bWowNmZnbWZpeTA1a2E5d2Flb2ExcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhzYzdlazNpZ3h5aDZ4bmVyOTEzNDgzdzIwZGYxd3psYWRmc2x1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDAW0cUKoXSWQ/giphy.gif" />
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZibWJ0emk1cjhoeHJhc2ZiMTZxYmhjem00YW9zY3Vjamwwd2FpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" />
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpweHEzZ3lnNmloeTl2Z2d1dWhtcHczbnViMjY3dnA3Z3Z0dXcxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7spY8XLVu5xRgmDais/giphy.gif" />
