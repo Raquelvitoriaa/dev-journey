@@ -48,7 +48,7 @@ HTML          CSS          JavaScript
 
 Current destination: HTML + CSS
 
-```text
+```txt
 HTML          Learning
 CSS           Learning
 JavaScript    Not Started
