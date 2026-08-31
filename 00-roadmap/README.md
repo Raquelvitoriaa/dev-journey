@@ -1,4 +1,4 @@
-# GRAND LINE - DEVELOPMENT ROADMAP
+# 🧭 GRAND LINE - DEVELOPMENT ROADMAP
 
 <p align="center">
 > My journey from Font-end to Full Stack.
@@ -9,7 +9,7 @@
 
 ---
 
-# THE JOURNEY
+# ☸ THE JOURNEY
       
       ☠︎ DEV JOURNEY
                |
