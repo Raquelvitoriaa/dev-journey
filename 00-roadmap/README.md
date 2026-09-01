@@ -1,8 +1,6 @@
 # 🧭 GRAND LINE - DEVELOPMENT ROADMAP
 
-<p align="center">
 >  My journey from Font-end to Full Stack.
-</p>
 
 <p>Este é o mapa da minha jornada de aprendizado em desenvolvimento de software.</p>
 <p>Cada etapa representa uma nova ilha, um novo desafio e uma nova habilidade adquirida.</p>
