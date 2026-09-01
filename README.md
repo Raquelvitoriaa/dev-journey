@@ -129,7 +129,6 @@ Every technology becomes part of the crew.
 ---
 
 <!--gif final-->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzbzdkN2gxZ2MxNHQ1MjZ1bWowNmZnbWZpeTA1a2E5d2Flb2ExcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhzYzdlazNpZ3h5aDZ4bmVyOTEzNDgzdzIwZGYxd3psYWRmc2x1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDAW0cUKoXSWQ/giphy.gif" />
 
