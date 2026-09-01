@@ -206,3 +206,5 @@
 → 🕮 Full Stack
 
 ---
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzbzdkN2gxZ2MxNHQ1MjZ1bWowNmZnbWZpeTA1a2E5d2Flb2ExcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
