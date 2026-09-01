@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:0d1117,50:8B0000,100:F5C518&height=180&section=header&&fontColor=ffffff&animation=fadeln"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:0d1117,50:8B0000,100:F5C518&section=header&&fontColor=ffffff&animation=fadeln"  />
 
 <h1 align="center">🏴‍☠ DEV JOURNEY </h1>
 
