@@ -2,10 +2,10 @@
 
 <h1 align="center">🏴‍☠ DEV JOURNEY </h1>
 
-THE GRAND LINE OF CODE
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=600&size=30&pause=1000&color=4A3B32&width=850&height=45&separator=%3C&lines=N%C3%B3s+n%C3%A3o+estamos+procurando+a+morte;+estamos+lutando+pela+vida.%3CA+morte+nunca+%C3%A9+um+pedido+de+desculpas.%3CSe+voc%C3%AA+perde+a+credibilidade+apenas+por+assumir+uma+falha%2C+ent%C3%A3o+voc%C3%AA+n%C3%A3o+tinha+credibilidade+nenhuma.%3CSe+voc%C3%AA+machucar+algu%C3%A9m+ou+se+algu%C3%A9m+te+machucar%2C+o+mesmo+sangue+vermelho+fluir%C3%A1.%3COs+tolos+que+n%C3%A3o+respeitam+o+passado+est%C3%A3o+condenados+a+repet%C3%AD-lo.%3CEu+quero+viver!" alt="Typing SVG" /></a>
 
 > "The treasure ins`t the destination. it´s everything you lear along the way."
-> 
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZibWJ0emk1cjhoeHJhc2ZiMTZxYmhjem00YW9zY3Vjamwwd2FpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" width="100%" />
 
 ---
