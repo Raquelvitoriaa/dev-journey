@@ -58,8 +58,8 @@ dev-journey/
 ├── README.md
 │
 ├── 00-roadmap
-│   ├──
-│   └──
+│   ├── README.md
+│   └── progress.md
 │
 ├── 01-Rocketseat
 
