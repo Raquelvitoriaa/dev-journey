@@ -81,7 +81,7 @@ dev-journey/
 │       ├── assets/
 │       └── README.md
 │
-│   ├── nivel-02-javascript/
+├── nivel-02-javascript/
 │   ├── javascript-basico/
 │   │   ├── aulas/
 │   │   ├── atividades/
@@ -116,13 +116,13 @@ dev-journey/
 │       ├── src/
 │       └── README.md
 │
-│    ├── nivel-03-typescript/
+├── nivel-03-typescript/
 │       └── conhecendo-typescript/
 │       ├── aulas/
 │       ├── exercicios/
 │       └── README.md
 │
-│    ├── nivel-04-iniciando-react/
+├── nivel-04-iniciando-react/
 │   ├── fundamentos-react/
 │   │   ├── src/
 │   │   ├── exercicios/
