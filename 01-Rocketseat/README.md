@@ -41,7 +41,7 @@ Status: EM PROGRESSO
 |-------------|------------|
 | Níveis | 5 etapas de aprendizado |
 | Aulas mapeadas | 542 aulas |
-| Atividades | ? atividades |
+| Atividades | 33 atividades |
 | Quizzes | Registro de avaliações e resultados |
 | Projetos | Exercícios, desafios opcionais e projetos práticos |
 | Tecnologias | HTML5, CSS3, JavaScript, TypeScript e React |
