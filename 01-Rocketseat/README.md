@@ -53,105 +53,16 @@ Status: EM PROGRESSO
 A estrutura abaixo representa a organização física proposta para o repositório. Cada diretório concentra o conteúdo de uma etapa específica da formação.
 
 ```text
-rocketseat-dev-journey/
+dev-journey/
 │
 ├── README.md
 │
-├── nivel-01-html-css/
-│   ├── fundamentos-html/
-│   │   ├── aulas/
-│   │   ├── atividades/
-│   │   └── README.md
-│   │
-│   ├── fundamentos-css/
-│   │   ├── aulas/
-│   │   ├── atividades/
-│   │   └── README.md
-│   │
-│   ├── projeto-pagina-receita/
-│   │   ├── index.html
-│   │   ├── styles/
-│   │   ├── assets/
-│   │   └── README.md
-│   │
-│   └── desafio-local-turistico/
-│       ├── index.html
-│       ├── styles/
-│       ├── assets/
-│       └── README.md
+├── 00-roadmap
+│   ├──
+│   └──
 │
-├── nivel-02-javascript/
-│   ├── javascript-basico/
-│   │   ├── aulas/
-│   │   ├── atividades/
-│   │   ├── conversor-de-moedas/
-│   │   └── README.md
-│   │
-│   ├── desafio-lista-compras/
-│   │   ├── src/
-│   │   └── README.md
-│   │
-│   ├── javascript-intermediario/
-│   │   ├── aulas/
-│   │   ├── atividades/
-│   │   └── README.md
-│   │
-│   ├── desafio-sorteador-numeros/
-│   │   ├── src/
-│   │   └── README.md
-│   │
-│   ├── javascript-antes-do-framework/
-│   │   ├── aulas/
-│   │   ├── modulos/
-│   │   ├── apis/
-│   │   └── README.md
-│   │
-│   ├── projeto-hair-day/
-│   │   ├── src/
-│   │   ├── assets/
-│   │   └── README.md
-│   │
-│   └── desafio-agendamento-petshop/
-│       ├── src/
-│       └── README.md
-│
-├── nivel-03-typescript/
-│   └── conhecendo-typescript/
-│       ├── aulas/
-│       ├── exercicios/
-│       └── README.md
-│
-├── nivel-04-iniciando-react/
-│   ├── fundamentos-react/
-│   │   ├── src/
-│   │   ├── exercicios/
-│   │   └── README.md
-│   │
-│   └── projeto-adivinhar-palavra/
-│       ├── src/
-│       ├── public/
-│       └── README.md
-│
-└── nivel-05-avancando-react/
-    ├── navegacao-react-router/
-    │   ├── src/
-    │   └── README.md
-    │
-    ├── formularios-react-hook-form/
-    │   ├── src/
-    │   └── README.md
-    │
-    ├── estilizacao-tailwind/
-    │   ├── src/
-    │   └── README.md
-    │
-    ├── requisicoes-http-api/
-    │   ├── src/
-    │   └── README.md
-    │
-    └── deploy-frontend/
-        ├── documentacao/
-        └── README.md
+├── 01-Rocketseat
+
 ```
 
 ---
