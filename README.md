@@ -68,10 +68,10 @@ Here i document:
 Current destination: HTML + CSS
 
 ```txt
-HTML          🟠 Learning
-CSS           🟠 Learning
-JavaScript    🔴 Not Started
-TypeScript    🔴 Not Started
+HTML          🟢 completed
+CSS           🟢 completed
+JavaScript    🟠 Learning
+TypeScript    🟠 Learning
 ```
 
 ---
