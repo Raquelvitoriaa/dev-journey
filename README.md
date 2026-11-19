@@ -130,6 +130,23 @@ Every technology becomes part of the crew.
 
 <!--gif final-->
 
+
+<img width="370" height="200" alt="200" src="https://github.com/user-attachments/assets/cea185df-cbc6-4027-a30b-f493694bf54f" />
+
+<img width="268" height="200" alt="200" src="https://github.com/user-attachments/assets/d80db56f-f86f-4ea6-b884-e1c4713b02ba" />
+
+<img width="358" height="200" alt="200" src="https://github.com/user-attachments/assets/f4ec213f-9670-442a-b604-323b6341167c" />
+
+<img width="358" height="200" alt="200" src="https://github.com/user-attachments/assets/65cfe848-f798-42e3-823e-24ee60107dec" />
+
+<img width="500" height="500" alt="giphy" src="https://github.com/user-attachments/assets/8e99d557-4182-4d38-add6-2c37e8e9b486" />
+
+<img width="376" height="200" alt="200" src="https://github.com/user-attachments/assets/3df2e3ff-d0f5-4cb3-b2f6-909523ca1b01" />
+
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/202be4fd-b454-4e68-8865-e8eb866d1f52" />
+
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/5c4c7f7a-95f8-4789-91d2-02de51d94587" />
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhzYzdlazNpZ3h5aDZ4bmVyOTEzNDgzdzIwZGYxd3psYWRmc2x1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDAW0cUKoXSWQ/giphy.gif" />
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpweHEzZ3lnNmloeTl2Z2d1dWhtcHczbnViMjY3dnA3Z3Z0dXcxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7spY8XLVu5xRgmDais/giphy.gif" />
