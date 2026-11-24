@@ -70,8 +70,8 @@ Current destination: HTML + CSS
 ```txt
 HTML          🟢 completed
 CSS           🟢 completed
-JavaScript    🟠 Learning
-TypeScript    🟠 Learning
+JavaScript    🟢 completed
+TypeScript    🟢 completed
 ```
 
 ---
